@@ -21,6 +21,7 @@ public class Cuboid {
 		return length == breadth && breadth == height;
 	}
 
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the length of the cuboid");
