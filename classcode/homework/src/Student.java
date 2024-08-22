@@ -1,3 +1,5 @@
+import com.sun.source.tree.MemberReferenceTree;
+
 import java.util.Scanner;
 
 class Student {
@@ -21,7 +23,8 @@ class Student {
 		if (id >= 100000000 && id <= 999999999) {
 			this.id = id;
 		} else {
-			throw new RuntimeException("ID must be a 9-digit number");
+			System.out.println("ID must be a 9-digit number");
+			return;
 		}
 	}
 
@@ -33,7 +36,8 @@ class Student {
 		if (name.matches("[a-zA-Z]+")) {
 			this.name = name;
 		} else {
-			throw new RuntimeException("Name must not have special characters and digits");
+			System.out.println("Name must not have special characters and digits");
+			return;
 		}
 	}
 
@@ -45,7 +49,8 @@ class Student {
 		if ((gender == 'M'||gender =='m') || gender == 'F'||gender=='f') {
 			this.gender = gender;
 		} else {
-			throw new RuntimeException("Gender must be either M or F");
+			System.out.println("Gender must be either M or F");
+			return;
 		}
 	}
 
@@ -57,7 +62,8 @@ class Student {
 		if (branch.equalsIgnoreCase("ECE") || branch.equalsIgnoreCase("CSE") || branch.equalsIgnoreCase("ME") || branch.equalsIgnoreCase("ECSE") || branch.equalsIgnoreCase("CE") || branch.equalsIgnoreCase("BT") || branch.equalsIgnoreCase("EEE")) {
 			this.branch = branch;
 		} else {
-			throw new RuntimeException("Branch must be either ECE, CSE, ME, ECSE, CE, BT, or EEE");
+			System.out.println("Branch must be either ECE, CSE, ME, ECSE, CE, BT, or EEE");
+			return;
 		}
 	}
 
