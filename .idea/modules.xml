@@ -43,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/networking/networking.iml" filepath="$PROJECT_DIR$/networking/networking.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" filepath="$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab1/postlab/postlab.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab1/postlab/postlab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/thread class multithreading/thread class multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/thread class multithreading/thread class multithreading.iml" />
     </modules>
   </component>
