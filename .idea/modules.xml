@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/basic/data types/data types.iml" filepath="$PROJECT_DIR$/basic/data types/data types.iml" />
       <module fileurl="file://$PROJECT_DIR$/classcode/homework/homework.iml" filepath="$PROJECT_DIR$/classcode/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/important keywords in java/important keywords in java.iml" filepath="$PROJECT_DIR$/important keywords in java/important keywords in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/prelab2/inlab2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/prelab2/inlab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/inlab2q2/inlab2q2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/inlab2q2/inlab2q2.iml" />
       <module fileurl="file://$PROJECT_DIR$/input output/input output.iml" filepath="$PROJECT_DIR$/input output/input output.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/interface.iml" filepath="$PROJECT_DIR$/Interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction to maven and ant/introduction to maven and ant.iml" filepath="$PROJECT_DIR$/introduction to maven and ant/introduction to maven and ant.iml" />
@@ -39,11 +41,19 @@
       <module fileurl="file://$PROJECT_DIR$/javafx/javafx.iml" filepath="$PROJECT_DIR$/javafx/javafx.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab1/lab1.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/lab2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc architecture/mvc architecture.iml" filepath="$PROJECT_DIR$/mvc architecture/mvc architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/networking/networking.iml" filepath="$PROJECT_DIR$/networking/networking.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" filepath="$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab1/postlab/postlab.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab1/postlab/postlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/postlab2/postlab2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/postlab2/postlab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/postlab2/postlab2q1/postlab2q1.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/postlab2/postlab2q1/postlab2q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/postlab2/postlab2q2/postlab2q2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/postlab2/postlab2q2/postlab2q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/inlab2/prelab2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/inlab2/prelab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/prelab2/prelab2q1/prelab2q1.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/prelab2/prelab2q1/prelab2q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/inlab2/inlab2q2/prelab2q2.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/inlab2/inlab2q2/prelab2q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab2/prelabq1/prelabq1.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab2/prelabq1/prelabq1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/thread class multithreading/thread class multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/thread class multithreading/thread class multithreading.iml" />
     </modules>
   </component>
