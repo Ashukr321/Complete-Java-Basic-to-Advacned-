@@ -18,4 +18,6 @@ public class Demo {
 		System.out.println("Current Price: " + googleStock.getCurrentPrice());
 		System.out.println("Price Change Percentage: " + googleStock.getChangePercent() + "%");
 	}
+
+
 }
