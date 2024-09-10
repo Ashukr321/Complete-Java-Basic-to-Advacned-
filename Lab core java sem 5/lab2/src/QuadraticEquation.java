@@ -11,11 +11,6 @@ public class QuadraticEquation {
 		this.c = c;
 	}
 
-	// Getter method for a
-	public double getA() {
-		return a;
-	}
-
 	// Getter method for b
 	public double getB() {
 		return b;

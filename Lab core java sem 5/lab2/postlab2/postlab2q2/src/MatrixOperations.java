@@ -8,7 +8,6 @@ public class MatrixOperations {
 		// Check if the number of arguments is less than 2
 		if (args.length < 2) {
 			System.out.println("Please provide the number of rows and columns as command-line arguments.");
-			return;
 		}
 
 		// Reading number of rows and columns from the command line arguments
