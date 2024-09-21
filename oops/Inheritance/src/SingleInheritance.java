@@ -10,9 +10,7 @@ class Animal {
 	void eat() {
 		System.out.println(this.name + " is eating");
 	}
-	void  sleep(){
-		System.out.println(this.name+" is sleeping");
-	}
+
 }
 
 class Dog extends Animal {
@@ -20,6 +18,9 @@ class Dog extends Animal {
 	//	 we must have to create the constructor bec. parent class have constructor
 	public Dog(String name) {
 		super(name);
+	}
+	void  sleep(){
+		System.out.println(this.name+" is sleeping");
 	}
 }
 
@@ -36,5 +37,11 @@ public class SingleInheritance {
 		d1.eat();
 		// call the child class object to parent class state variables
 		d1.sleep();
+
+		// here we create the object of the parent class and try to access the child class methods
+//		Animal a1 = new Animal("rubi");
+//		a1.sleep();
+
+		System.out.println(" we can't access the parent class ref to child class methods ");
 	}
 }
