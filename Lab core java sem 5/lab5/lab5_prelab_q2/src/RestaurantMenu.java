@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * @author Ashutosh kumar
+ */
 public class RestaurantMenu {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
