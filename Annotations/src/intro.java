@@ -11,6 +11,7 @@ public class intro {
 		System.out.println("@Retention - specifies how long the annotation is retained");
 		System.out.println("@Documented - indicates that the annotation should be documented by tools like JavaDoc");
 		System.out.println("@Inherited - indicates that the annotation is inherited by subclasses");
+
 		System.out.println("@FunctionalInterface - informs the compiler that the interface is intended to be a functional interface");
 	}
 }

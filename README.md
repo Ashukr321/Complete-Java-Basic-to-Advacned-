@@ -169,6 +169,135 @@ An interface is a abstract class that contains only constants, method signatures
 * finally	
 
 
+## File Handling
+Concept of stream 						
+Byte Oriented Stream						
+### InputStream				
+* Output Stream				
+						
+* InputStream					
+* byte from input device to java program			
+* example 	inbuilt class				
+						
+* ByteArrayInputStream					
+* FilterIinputStream					
+* DataInputStream					
+* ObjectInputStream					
+* FileInputStream					
+* StringBufferStream					
+* BufferInputStream					
+
+### Output Stream	
+
+* byte from java program to output device			
+					
+* Example inbuilt classes 					
+					
+* ByteArrayOutPutStream					
+* FilterOutputStream					
+* DataOutputStream					
+* PrintStream					
+* BufferedOutputStream					
+
+## Character Oriented Stream		
+* character from input device to java program				
+    Reader class						
+    Writer class					
+													
+### 1. Reader class ( input device to java program )			
+							
+* inbuilt classess are						
+* CharArrayReader						
+* FilterReader						
+* BufferReader						
+* FileReader						
+* InputStreamReader		
+
+### 2. Writer class ( java program to output device )		
+* CharArrayWriter				
+* FilterWriter				
+* FileWriter				
+* PrintWriter				
+* BufferedWriter
+
+## Anonymous class in the java 		
+
+* 3 types										
+* Anonymous class extending another class										
+* Anonymous class by  implementing interface										
+* In methods or constructor parameters argument										
+* Ambiguty error  in multiple inheritance 				
+* static methods  and default methods in interface					
+
+## Constructor chaining in the inheritance 			
+    super()
+    this() 
+
+
+## Multitasking	
+
+* multitasking , 			
+* multiprocessing , 			
+* multithreading			
+* thread and process in java 			
+* nways to achives multithreading 			
+* thread schedular			
+			
+* Multithreading using Thread class			
+* Multithreading using Runnable class			
+			
+* life Cycle of thread			
+* thread Priorites			
+* thread - Daemon , join, yield			
+* Synchronsation ( multithreading) 			
+* why we need synchronised		
+* synchronised methods
+		
+## Collection framework
+
+* collection framework  and its classifcation 						
+* what is arraylist and how use in real life give one example						
+* what is linkedlist how they implemented give one real life use  case 						
+* what is  vector and its implementation						
+* what is stack how stack is implemented in the java 	
+## Queue Set and HashSet Treeset LinkedHashSet
+* Eplain the  queue of collection framework 				
+* Explain the priority queue of collection framwork 				
+* Eplain the Deque of collection framework 				
+* Explain the the set  hashset  and its implementation,				
+* implementation of LinkedHashSet				
+* implementation of Treeset of set Interface	
+
+## Map and Hashmap
+* Introduction of Map interface 						
+* Implementation of hashTable class of map interface						
+* Implementation of LinkedhashMap class of Map interface						
+* Explain the implement its methods of HashMap class of map interface						
+* Explain the implementation of TreeMap class of SortedMap interface						
+
+## Spring Intro Basic concepts 
+* difference between spring and hibernate 				
+* Explain the dependencies injection in java 				
+* what is the purpose of java persistence api ( jpa) 				
+* difference between c++ and java 		
+* Explain the code execution of java code 
+
+## keywords
+* final keywords			
+* static keywords			
+* this keywords			
+* super keywords	
+
+## generic
+* generic in java  ( this is similar to cpp template ) 		
+
+## javaDoc
+
+## comparable vs comparator			
+## How does hashMap internally work 			
+
+
+
 
 # CORE JAVA INTERVIEW QUESTIONS
 
