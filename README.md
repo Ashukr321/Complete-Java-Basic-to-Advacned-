@@ -1,5 +1,4 @@
 
-
 ![Logo](https://d2jdgazzki9vjm.cloudfront.net/core/images/java-logo1.png)
 
 # CORE JAVA AND ADVANCED  JAVA
@@ -233,7 +232,6 @@ Byte Oriented Stream
     super()
     this() 
 
-
 ## Multitasking	
 
 * multitasking , 			
@@ -274,6 +272,42 @@ Byte Oriented Stream
 * Implementation of LinkedhashMap class of Map interface						
 * Explain the implement its methods of HashMap class of map interface						
 * Explain the implementation of TreeMap class of SortedMap interface						
+
+## Introduction to AWT 
+* GUI api 
+* Component Awt 
+* Button ,Label, Checkbox ,Text Component (TextField,TextArea)
+* List
+* Container(Window-> Frame, Dialog ,Panel->Aplet)
+* Method Frame Class
+    setVisible(boolean b)
+    setSize(int width,int height)
+    setTitle(String title)
+* Two ways to Create Frame
+    By creating the Object of Frame Class (Association)
+    By extending Frame class (Inheritance)
+### Constant in Color Class 
+* public static final Color black
+* public static final Color Black
+* public static final Color blue
+* public static final Color Blue
+* public static final Color red
+* public static final Color Red
+* public static final Color gray
+* public static final Color Gray
+* public static final Color orange
+* public static final Color Orange
+* public static final Color yellow
+* public static final Color pink 
+* ......
+
+### Commonly used methods of Graphics class 
+* drawString(String str, int x ,int y)
+* drawRect(int x,int y ,int width ,int height)
+* fillRect(int x,int y ,int width, int heigh)
+* drawArc(int x, int y , int width , int height)
+* fillArc(int x, int y ,int width ,int height , int startAngle,int arcAngle)
+* setColor(Color c)
 
 ## Spring Intro Basic concepts 
 * difference between spring and hibernate 				
@@ -593,5 +627,4 @@ I specialize in creating modern and responsive web applications. With a strong p
 ## Acknowledgements
 
  * Ashutosh kumar for creating and maintaining this repository.
-
 
