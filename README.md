@@ -330,7 +330,11 @@ Byte Oriented Stream
 ## comparable vs comparator			
 ## How does hashMap internally work 			
 
-
+## Project Ideas 
+### Basic
+1. Simple Calculator
+2. To-Do List App
+3. Quiz Program
 
 
 # CORE JAVA INTERVIEW QUESTIONS
