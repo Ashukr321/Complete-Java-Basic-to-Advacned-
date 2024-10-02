@@ -1,0 +1,113 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Demo.java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Demo_java_jar</output-path>
+    <root id="archive" name="Demo.java.jar">
+      <element id="module-output" name="basic" />
+      <element id="module-output" name="classcode" />
+      <element id="module-output" name="oops" />
+      <element id="module-output" name="classes" />
+      <element id="module-output" name="Inheritance" />
+      <element id="module-output" name="polymorphims" />
+      <element id="module-output" name="Encapsulations" />
+      <element id="module-output" name="collection Framework" />
+      <element id="module-output" name="Abstraction" />
+      <element id="module-output" name="Access modifiers" />
+      <element id="module-output" name="interface" />
+      <element id="module-output" name="Exception Handling" />
+      <element id="module-output" name="String" />
+      <element id="module-output" name="StringBuffer" />
+      <element id="module-output" name="StringBuilder" />
+      <element id="module-output" name="Multithreading" />
+      <element id="module-output" name="Data_concept" />
+      <element id="module-output" name="FileHandling" />
+      <element id="module-output" name="JavaEnum" />
+      <element id="module-output" name="Array" />
+      <element id="module-output" name="GarbageCollection" />
+      <element id="module-output" name="This keywords" />
+      <element id="module-output" name="Annotations" />
+      <element id="module-output" name="networking" />
+      <element id="module-output" name="input output" />
+      <element id="module-output" name="important keywords in java" />
+      <element id="module-output" name="data types" />
+      <element id="module-output" name="java api" />
+      <element id="module-output" name="applet and swing" />
+      <element id="module-output" name="jdbc" />
+      <element id="module-output" name="javafx" />
+      <element id="module-output" name="introduction to maven and ant" />
+      <element id="module-output" name="mvc architecture" />
+      <element id="module-output" name="java framework" />
+      <element id="module-output" name="build tool" />
+      <element id="module-output" name="thread class multithreading" />
+      <element id="module-output" name="postlab2" />
+      <element id="module-output" name="Lab core java sem 5" />
+      <element id="module-output" name="postlab2q2" />
+      <element id="module-output" name="inlab2q2" />
+      <element id="module-output" name="lab2" />
+      <element id="module-output" name="postlab2q1" />
+      <element id="module-output" name="lab1" />
+      <element id="module-output" name="postlab" />
+      <element id="module-output" name="homework" />
+      <element id="module-output" name="Thread class method and constructor" />
+      <element id="module-output" name="Runnable Interface thread" />
+      <element id="module-output" name="prelabq1" />
+      <element id="module-output" name="lab3" />
+      <element id="module-output" name="lab3postlab" />
+      <element id="module-output" name="lab7" />
+      <element id="module-output" name="homeAssigment" />
+      <element id="module-output" name="interviewQuestions" />
+      <element id="module-output" name="inner_Class_And_Nested_class" />
+      <element id="module-output" name="lab4" />
+      <element id="module-output" name="_1_prelab_q1" />
+      <element id="module-output" name="_2_prelab_q2" />
+      <element id="module-output" name="_inlab_q1" />
+      <element id="module-output" name="_2_inlab_q2" />
+      <element id="module-output" name="_1_post_lab_q1" />
+      <element id="module-output" name="_2_post_lab_q2" />
+      <element id="module-output" name="lab5" />
+      <element id="module-output" name="__lab5_prelab_q1" />
+      <element id="module-output" name="lab5_prelab_q2" />
+      <element id="module-output" name="lab5_inlabq1" />
+      <element id="module-output" name="lab5_inlabq2" />
+      <element id="module-output" name="lab5_postlabq1" />
+      <element id="module-output" name="lab5_postlabq2" />
+      <element id="module-output" name="lab6" />
+      <element id="module-output" name="lab6_prelab_q1" />
+      <element id="module-output" name="lab6_prelab_q2" />
+      <element id="module-output" name="lab6_inlab_q1" />
+      <element id="module-output" name="lab6_inlab_q2" />
+      <element id="module-output" name="lab6_postlab_q1" />
+      <element id="module-output" name="string pool and heap storage" />
+      <element id="module-output" name="spliting string" />
+      <element id="module-output" name="Joining Strings with a delimiter" />
+      <element id="module-output" name="stringConcatenation" />
+      <element id="module-output" name="string tokenizer" />
+      <element id="module-output" name="file" />
+      <element id="module-output" name="fileInputStream" />
+      <element id="module-output" name="fileOutputStream" />
+      <element id="module-output" name="bufferReader" />
+      <element id="module-output" name="bufferWritter" />
+      <element id="module-output" name="fileReader" />
+      <element id="module-output" name="fileWritter" />
+      <element id="module-output" name="fileMethods" />
+      <element id="module-output" name="onlineclass" />
+      <element id="module-output" name="java project" />
+      <element id="module-output" name="todoapp" />
+      <element id="module-output" name="list" />
+      <element id="module-output" name="arrayList" />
+      <element id="module-output" name="linkedlist" />
+      <element id="module-output" name="Music Playlist Manager" />
+      <element id="module-output" name="vector" />
+      <element id="module-output" name="vectorinlist" />
+      <element id="module-output" name="StackImplementation" />
+      <element id="module-output" name="queue" />
+      <element id="module-output" name="onlineClass" />
+      <element id="module-output" name="calender" />
+      <element id="module-output" name="Recursion" />
+      <element id="module-output" name="interface_abstractions" />
+      <element id="module-output" name="Anonymous class" />
+      <element id="module-output" name="Anonymous by extending class" />
+      <element id="module-output" name="Awt" />
+      <element id="module-output" name="awt project" />
+    </root>
+  </artifact>
+</component>
