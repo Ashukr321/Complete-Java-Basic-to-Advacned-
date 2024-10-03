@@ -21,6 +21,7 @@ Features of Java
 * Distributed: Java has extensive support for distributed computing, enabling the creation of networked applications.
 * Dynamic: Java is capable of adapting to an evolving environment, allowing programs to dynamically load classes and libraries.
 
+
 Important Topics in Core Java
 -----------------------------
 
@@ -309,8 +310,94 @@ Byte Oriented Stream
 * fillArc(int x, int y ,int width ,int height , int startAngle,int arcAngle)
 * setColor(Color c)
 
-## Spring Intro Basic concepts 
-* difference between spring and hibernate 				
+## Important Components 
+* Label 
+* TextField
+  1. setText();
+  2. getText
+*TextArea 
+  1. getText() 
+  2. setText() 
+  3. appendText()
+* Choice 
+  1. ch.add();
+  2. remove();
+  3. ch.remove(2) ⭐ remove by index 
+  4. ch.insert();
+  5. ch.getSelectedItem();
+  6. ch.getSelectedIndex();
+  
+* List
+  1. add(String item): Adds a new item to the list.
+  2. add(String item, int index): Adds a new item to the list at the specified index.
+  3. remove(String item): Removes an item from the list.
+  4. remove(int index): Removes an item from the list at the specified index.
+  5. removeAll(): Removes all items from the list.
+  6. getSelectedItem(): Returns the selected item in the list.
+  7. getSelectedIndex(): Returns the index of the selected item in the list.
+  8. getSelectedIndexes(): Returns an array of indices of the selected items in the list.
+  9. isMultipleMode(): Returns a boolean indicating whether the list allows multiple selections.
+## FlowLayout in AWT
+  FlowLayout is a layout manager in AWT (Abstract Window Toolkit) that arranges components in a container in a single row or column, depending on the orientation. It is a simple and easy-to-use layout manager that is suitable for many GUI applications.
+  1. FlowLayout(): Creates a new FlowLayout with the default alignment (center) and horizontal gap (5 pixels) and vertical gap (5 pixels).
+  2. FlowLayout(int align): Creates a new FlowLayout with the specified alignment (LEFT, CENTER, or RIGHT).
+  3. FlowLayout(int align, int hgap, int vgap): Creates a new FlowLayout with the specified alignment, horizontal gap, and vertical gap.
+  4. preferredLayoutSize(Container parent): Returns the preferred size required to layout the components in the specified container.
+## Checkbox in AWT
+
+A Checkbox is a graphical user interface (GUI) component in AWT (Abstract Window Toolkit) that allows users to select or deselect an option. It is a simple and easy-to-use component that is suitable for many GUI applications.
+* Checkbox(String label): Creates a new Checkbox with the specified label.
+* Checkbox(String label, boolean state): Creates a new Checkbox with the specified label and initial state (true or false).
+* Checkbox(String label, boolean state, CheckboxGroup group): Creates a new Checkbox with the specified label, initial state, and CheckboxGroup.
+* CheckboxGroup(): Creates a new CheckboxGroup.
+* add(Checkbox checkbox): Adds a Checkbox to the group.
+* getSelectedCheckbox(): Returns the selected Checkbox in the group.
+
+## BorderLayout in AWT
+BorderLayout is a layout manager in AWT (Abstract Window Toolkit) that divides a container into five regions: north, south, east, west, and center. Each region can hold a single component, and the components are resized to fit the available space.
+
+### Constructors:
+* BorderLayout(): Creates a new BorderLayout with the default gaps (0 pixels) between components.
+* BorderLayout(int hgap, int vgap): Creates a new BorderLayout with the specified horizontal and vertical gaps between components.
+### Methods
+* add(Component comp, String position): Adds a component to the specified position (NORTH, SOUTH, EAST, WEST, or CENTER).
+* add(Component comp, Object constraints): Adds a component to the specified position with the specified constraints.
+### Setting the Gaps:
+* setHgap(int hgap): Sets the horizontal gap between components.
+* getHgap(): Returns the horizontal gap between components.
+* setVgap(int vgap): Sets the vertical gap between components.
+* getVgap(): Returns the vertical gap between components.
+### Laying Out Components:
+* layoutContainer(Container parent): Lays out the components in the specified container.
+* minimumLayoutSize(Container parent): Returns the minimum size required to layout the components in the specified container.
+* preferredLayoutSize(Container parent): Returns the preferred size required to layout the components in the specified container.
+
+
+#
+
+## CardLayout in AWT
+CardLayout is a layout manager in AWT (Abstract Window Toolkit) that manages a deck of components, known as cards, and displays one card at a time. It is a powerful and flexible layout manager that is suitable for many GUI applications. 
+### Constructors:
+* CardLayout(): Creates a new CardLayout with the default gaps (0 pixels) between components.
+* CardLayout(int hgap, int vgap): Creates a new CardLayout with the specified horizontal and vertical gaps between components.
+## Methods:
+### Adding Cards
+* addLayoutComponent(String name, Component comp): Adds a component to the layout with the specified name.
+* addLayoutComponent(Component comp, Object constraints): Adds a component to the layout with the specified constraints.
+* 
+### Showing Cards:
+* show(Container parent, String name): Shows the card with the specified name in the specified container.
+* next(Container parent): Shows the next card in the specified container.
+* previous(Container parent): Shows the previous card in the specified container.
+* first(Container parent): Shows the first card in the specified container.
+* last(Container parent): Shows the last card in the specified container.
+
+### Getting Card Information
+* getLayoutComponentCount(): Returns the number of cards in the layout.
+* getLayoutComponent(int index): Returns the card at the specified index.
+* getLayoutComponent(String name): Returns the card with the specified name.
+
+#
 * Explain the dependencies injection in java 				
 * what is the purpose of java persistence api ( jpa) 				
 * difference between c++ and java 		
