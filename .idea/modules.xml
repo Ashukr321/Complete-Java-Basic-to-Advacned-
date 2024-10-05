@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/applet and swing/applet and swing.iml" filepath="$PROJECT_DIR$/applet and swing/applet and swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/list/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/collection Framework/list/arrayList/arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/awt project/awt project.iml" filepath="$PROJECT_DIR$/awt project/awt project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Awt/awtEvent/awtEvent.iml" filepath="$PROJECT_DIR$/Awt/awtEvent/awtEvent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/bufferReader/bufferReader.iml" filepath="$PROJECT_DIR$/FileHandling/bufferReader/bufferReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/bufferWritter/bufferWritter.iml" filepath="$PROJECT_DIR$/FileHandling/bufferWritter/bufferWritter.iml" />
