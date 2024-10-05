@@ -1,9 +1,7 @@
 
-![Logo](https://d2jdgazzki9vjm.cloudfront.net/core/images/java-logo1.png)
+![Logo](https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png)
 
 # CORE JAVA AND ADVANCED  JAVA
-
-
 
 * Java is a programming language and computing platform that was first released by Sun Microsystems in 1995. It's a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. Java is known for being fast, secure, and reliable, and it's widely used for developing large-scale applications, including Android apps, web applications, and enterprise software.
 
@@ -21,10 +19,12 @@ Features of Java
 * Distributed: Java has extensive support for distributed computing, enabling the creation of networked applications.
 * Dynamic: Java is capable of adapting to an evolving environment, allowing programs to dynamically load classes and libraries.
 
+## Application of Java
+![img_19.png](img_19.png)
 
-Important Topics in Core Java
+ Important Topics in Core Java
 -----------------------------
-
+    
 ## Java Basics
 
 * Application of java 		
@@ -253,7 +253,7 @@ Byte Oriented Stream
 * synchronised methods
 		
 ## Collection framework
-
+![img_18.png](img_18.png)
 * collection framework  and its classifcation 						
 * what is arraylist and how use in real life give one example						
 * what is linkedlist how they implemented give one real life use  case 						
@@ -275,8 +275,10 @@ Byte Oriented Stream
 * Explain the implementation of TreeMap class of SortedMap interface						
 
 ## Introduction to AWT 
+![Logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200701230518/AWT.png)
 * GUI api 
-* Component Awt 
+* Component Awt
+![Logo](https://www.edureka.co/blog/wp-content/uploads/2019/07/awt-hierarchy.png)
 * Button ,Label, Checkbox ,Text Component (TextField,TextArea)
 * List
 * Container(Window-> Frame, Dialog ,Panel->Aplet)
@@ -397,6 +399,21 @@ CardLayout is a layout manager in AWT (Abstract Window Toolkit) that manages a d
 * getLayoutComponent(int index): Returns the card at the specified index.
 * getLayoutComponent(String name): Returns the card with the specified name.
 
+## Event Handling in Java AWT
+Event handling is a crucial aspect of Java's Abstract Window Toolkit (AWT) that allows your program to respond to user interactions, such as mouse clicks, key presses, and window resizes. In AWT,
+
+Event handling is achieved through the use of event listeners, which are objects that implement specific interfaces to handle different types of events.
+### Event Listeners
+* MouseListener
+* KeyListener or WindowListener
+### Common Event Listeners
+*  MouseListener:   Handles mouse events, such as clicks and movements.
+*  KeyListener: Handles keyboard events, such as key presses and releases.
+*  WindowListener: Handles window events, such as window openings and closings.
+*  ActionListener: Handles action events, such as button clicks and menu selections.
+![Logo](https://media.geeksforgeeks.org/wp-content/uploads/20211108232732/event6.PNG)
+![Logo](https://www.oreilly.com/api/v2/epubs/9781565922402/files/images/ch004-f004.jpg)
+
 #
 * Explain the dependencies injection in java 				
 * what is the purpose of java persistence api ( jpa) 				
@@ -423,7 +440,8 @@ CardLayout is a layout manager in AWT (Abstract Window Toolkit) that manages a d
 2. To-Do List App
 3. Quiz Program
 
-
+## JDBC 
+![JDBC_Components.jpg](JDBC_Components.jpg)
 # CORE JAVA INTERVIEW QUESTIONS
 
     1)  what are static blocks and static initalizers in Java ?
