@@ -341,6 +341,9 @@ Byte Oriented Stream
   9. isMultipleMode(): Returns a boolean indicating whether the list allows multiple selections.
 ## FlowLayout in AWT
   FlowLayout is a layout manager in AWT (Abstract Window Toolkit) that arranges components in a container in a single row or column, depending on the orientation. It is a simple and easy-to-use layout manager that is suitable for many GUI applications.
+
+![img_21.png](img_21.png)
+
   1. FlowLayout(): Creates a new FlowLayout with the default alignment (center) and horizontal gap (5 pixels) and vertical gap (5 pixels).
   2. FlowLayout(int align): Creates a new FlowLayout with the specified alignment (LEFT, CENTER, or RIGHT).
   3. FlowLayout(int align, int hgap, int vgap): Creates a new FlowLayout with the specified alignment, horizontal gap, and vertical gap.
@@ -357,6 +360,8 @@ A Checkbox is a graphical user interface (GUI) component in AWT (Abstract Window
 
 ## BorderLayout in AWT
 BorderLayout is a layout manager in AWT (Abstract Window Toolkit) that divides a container into five regions: north, south, east, west, and center. Each region can hold a single component, and the components are resized to fit the available space.
+
+![img_20.png](img_20.png)
 
 ### Constructors:
 * BorderLayout(): Creates a new BorderLayout with the default gaps (0 pixels) between components.
@@ -378,7 +383,10 @@ BorderLayout is a layout manager in AWT (Abstract Window Toolkit) that divides a
 #
 
 ## CardLayout in AWT
-CardLayout is a layout manager in AWT (Abstract Window Toolkit) that manages a deck of components, known as cards, and displays one card at a time. It is a powerful and flexible layout manager that is suitable for many GUI applications. 
+CardLayout is a layout manager in AWT (Abstract Window Toolkit) that manages a deck of components, known as cards, and displays one card at a time. It is a powerful and flexible layout manager that is suitable for many GUI applications.
+
+![img_22.png](img_22.png)
+
 ### Constructors:
 * CardLayout(): Creates a new CardLayout with the default gaps (0 pixels) between components.
 * CardLayout(int hgap, int vgap): Creates a new CardLayout with the specified horizontal and vertical gaps between components.
