@@ -422,6 +422,77 @@ Event handling is achieved through the use of event listeners, which are objects
 ![Logo](https://media.geeksforgeeks.org/wp-content/uploads/20211108232732/event6.PNG)
 ![Logo](https://www.oreilly.com/api/v2/epubs/9781565922402/files/images/ch004-f004.jpg)
 
+## Swing User Interface 
+*  Swing is a graphical user interface (GUI) toolkit that provides a set of libraries and tools for building GUI applications.
+* It's part of the Java Foundation Classes (JFC) and is used to create desktop applications with a native look and feel.
+* 
+## Key Features of Swing
+* Platform Independence: Swing applications can run on any platform that supports Java, without modification.
+* Customizable: Swing provides a high degree of customization, allowing developers to create unique and branded GUI applications.
+* Extensive Library: Swing provides a comprehensive library of GUI components and tools, making it easy to build complex GUI applications.
+## Common Uses of Swing
+* Desktop Applications: Swing is commonly used to build desktop applications, such as IDEs, media players, and games.
+* Enterprise Applications: Swing is used in enterprise applications, such as CRM systems, inventory management systems, and more.
+* GUI Testing: Swing is used in GUI testing frameworks, such as Jemmy and Abbot, to automate testing of GUI applications.
+
+![img_23.png](img_23.png)
+![img_24.png](img_24.png)
+
+## Important  key points Components of swing 
+* setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE)
+>This line of code sets the default close operation for the JFrame instance, which determines what happens when the user closes the window.
+
+* jFrame Default layout
+>Default layout is flowlayout 
+
+    String[] items = {"Apple", "Banana", "Cherry", "Date", "Elderberry"};
+    JList<String> list = new JList<>(items);
+    
+    // Create a JScrollPane to hold the JList
+     JScrollPane scrollPane = new JScrollPane(list);
+## ImageIcon in Swing
+* java Swing, an ImageIcon is a class that represents an image that can be used as an icon in a GUI component
+
+
+    ImageIcon icon = new ImageIcon("image.png");    
+
+    BufferedImage image = ImageIO.read(new File("image.png"));
+    ImageIcon icon = new ImageIcon(image);
+
+## MessageDialog in Swing
+* JOptionPane is a dialog box that provides a way to display a message to the user and optionally prompt them for input. It's a convenient way to show a message, ask for confirmation, or request input from the user.
+
+### Types of MessageDialogs
+* Message Dialog: Displays a message to the user.
+* Confirm Dialog: Asks the user to confirm an action.
+* Input Dialog: Requests input from the user.
+* Option Dialog: Displays a message and provides options for the user to choose from.
+
+
+    JOptionPane.showMessageDialog(null, "Hello, World!");
+
+    JOptionPane.showMessageDialog(null, "Hello, World!", "Greetings", JOptionPane.INFORMATION_MESSAGE);
+
+## JTable Demo 
+* JTable is a component that displays a table of data, similar to a spreadsheet. It's a powerful and flexible component that allows you to display and edit data in a tabular format.
+
+      String[][] data = {
+      {"101", "Rakesh", "10000"},
+      {"102", "Sita", "20000"},
+      {"103", "Rajeev", "30000"}
+      };
+    
+      String[] col = {"Eid", "Ename", "Esal"};
+
+      JTable jTable = new JTable(data, col);
+### JColorChooser in Swing[
+* JColorChooser is a component that allows the user to]() select a color from a palette of colors. It's a useful component for applications that require the user to choose a color, such as a graphics editor or a design tool.
+  #
+  * Creating a JColorChooser
+
+        JColorChooser colorChooser = new JColorChooser();
+        Color selectedColor = colorChooser.getColor();
+# ⭐⭐⭐⭐⭐⭐⭐
 #
 * Explain the dependencies injection in java 				
 * what is the purpose of java persistence api ( jpa) 				
