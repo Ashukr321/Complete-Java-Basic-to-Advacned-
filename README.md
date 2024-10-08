@@ -22,6 +22,17 @@ Features of Java
 ## Application of Java
 ![img_19.png](img_19.png)
 
+## 🤗 Quick Reference 🔥🧑‍💻
+[spring core notes.pdf](spring%20core%20notes.pdf)
+
+[Session 22 - GUI (AWT ^0 SWing).pdf](Session%2022%20-%20GUI%20%28AWT%20%5E0%20SWing%29.pdf)
+
+[Multi Threading .pdf](Multi%20Threading%20.pdf)
+
+[java complete hand written notes.pdf](java%20complete%20hand%20written%20notes.pdf)
+
+[Exception handling .pdf](Exception%20handling%20.pdf)
+
  Important Topics in Core Java
 -----------------------------
     
@@ -420,7 +431,26 @@ Event handling is achieved through the use of event listeners, which are objects
 *  WindowListener: Handles window events, such as window openings and closings.
 *  ActionListener: Handles action events, such as button clicks and menu selections.
 ![Logo](https://media.geeksforgeeks.org/wp-content/uploads/20211108232732/event6.PNG)
+* Event Delegation  model : we have  multiple components 
+  each component have 
+  * Properties 
+  * Methods 
+  * Event 
+  
+
 ![Logo](https://www.oreilly.com/api/v2/epubs/9781565922402/files/images/ch004-f004.jpg)
+- [Event classes and Interface 🚀🧑‍💻](https://download.java.net/java/early_access/loom/docs/api/java.desktop/java/awt/event/package-summary.html)
+- [java.awt](https://download.java.net/java/early_access/loom/docs/api/java.desktop/java/awt/package-summary.html)
+## WindowAdapter
+* The WindowAdapter class in Java AWT is an abstract adapter class that provides a convenient way to receive window events. It contains empty methods that can be overridden to handle specific window events, such as window opening, closing, iconifying, and deicon ifying.
+* This is class , we  know that we can't inherit multiple class in the single class , we have to create inner class or create outside the class and use it. 
+* 
+
+
+
+
+
+
 
 ## Swing User Interface 
 *  Swing is a graphical user interface (GUI) toolkit that provides a set of libraries and tools for building GUI applications.
