@@ -180,7 +180,7 @@ An interface is a abstract class that contains only constants, method signatures
 * finally	
 
 [Exception handling .pdf](Exception%20handling%20.pdf)
-![img_25.png](img_25.png)
+
 ![img_26.png](img_26.png)
 ### Examples of checked exceptions include
 * FileNotFoundException: This exception is thrown when a file is not found.
