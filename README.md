@@ -171,13 +171,32 @@ An interface is a abstract class that contains only constants, method signatures
 
 ## Exception handling
 * diff. error and exception		
-* checked and uncheked exception		
+* checked and unchecked exception		
 * keywords use in exception 		
 * try 	
 * catch 	
 * throw	
 * throw	
 * finally	
+
+[Exception handling .pdf](Exception%20handling%20.pdf)
+![img_25.png](img_25.png)
+![img_26.png](img_26.png)
+### Examples of checked exceptions include
+* FileNotFoundException: This exception is thrown when a file is not found.
+* IOException: This exception is thrown when there is an I/O error.
+* ClassNotFoundException: This exception is thrown when a class is not found.
+* SQLException: This exception is thrown when there is a database error.
+* ParseException: This exception is thrown when there is a parsing error.
+
+###  Examples of unchecked exceptions include
+* RuntimeException: This is the parent class of all unchecked exceptions.
+* NullPointerException: This exception is thrown when a null object is dereferenced.
+* ArrayIndexOutOfBoundsException: This exception is thrown when an array index is out of bounds.
+* ClassCastException: This exception is thrown when an invalid cast is performed.
+* ArithmeticException: This exception is thrown when an arithmetic error occurs, such as division by zero.
+
+
 
 
 ## File Handling
