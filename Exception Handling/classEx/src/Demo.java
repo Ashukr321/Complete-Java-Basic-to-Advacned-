@@ -4,9 +4,11 @@ public class Demo {
 		try
 		{
 
-		s.setAge(2);
+		s.setAge(32);
+		s.setName("Ashutosh");
+		s.setId(123456789);
 		}catch (Exception e){
-			e.printStackTrace();
+		e.printStackTrace();
 		}
 		System.out.println(s.toString());
 	}
