@@ -14,5 +14,7 @@ public class Ex1 {
 			System.out.println("we can't access charAt index " + idx);
 		}
 
+
+
 	}
 }

@@ -196,6 +196,51 @@ An interface is a abstract class that contains only constants, method signatures
 * ClassCastException: This exception is thrown when an invalid cast is performed.
 * ArithmeticException: This exception is thrown when an arithmetic error occurs, such as division by zero.
 
+### Ways of creating user defined exception classes
+1. By Extending Exception class
+
+       public class InvalidInputException extends Exception {
+         public InvalidInputException(String message) {
+           super(message);
+         }
+       }
+
+
+2. By Extending RuntimeException class
+
+       public class MyException extends RuntimeException {
+           // Your exception class implementation
+       }
+
+### ways to print the exception message 
+Exceptions e
+1. e.printStackTrace();
+2. e.toString();
+3. e.getMessage();
+
+
+### Example of Throw keyword 
+    public class MyClass {
+      public void divide(int a, int b) {
+        if (b == 0) {
+          throw new ArithmeticException("Cannot divide by zero");
+        }
+        int result = a / b;
+        System.out.println("Result: " + result);
+      }
+    }
+
+### Throws keyword 
+* The throws keyword in Java is used to declare that a method or a constructor can throw an exception.
+
+      public class MyClass {
+        public void validateInput(String input) throws InvalidInputException {
+          if (input == null || input.isEmpty()) {
+            throw new InvalidInputException("Input cannot be null or empty");
+          }
+          System.out.println("Input is valid");
+        }
+      }
 
 
 
