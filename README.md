@@ -51,6 +51,7 @@ Features of Java
 
 ![img_27.png](img_27.png)
 ![img_28.png](img_28.png)
+![img_30.png](img_30.png)
 ## Constructor
 
 * default constructor				
