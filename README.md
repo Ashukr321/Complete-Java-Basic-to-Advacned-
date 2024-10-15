@@ -50,7 +50,7 @@ Features of Java
 * class and object in java 	
 
 ![img_27.png](img_27.png)
-
+![img_28.png](img_28.png)
 ## Constructor
 
 * default constructor				
