@@ -40,21 +40,24 @@ Features of Java
 
 * Application of java 		
 * jre , jdk , jvm 		
-* data types in java 		
+* data types in java 
+
 * null in java 		
 * variables in java 		
 * literals in java 		
 * Operators in java 		
 * type casting , comment java 		
-* class and object in java 		
+* class and object in java 	
+
+![img_27.png](img_27.png)
 
 ## Constructor
 
 * default constructor				
 * constructor and its types				
 * constructor chaining using this()  , and super () 				
-* paramterised constructor				
-* why java plateform independent			
+* parameterized constructor				
+* why java platform independent			
 * diff btw  java and cpp 			
 * instanceof operator in java 			
 
