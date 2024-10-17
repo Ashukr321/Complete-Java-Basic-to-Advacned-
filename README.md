@@ -19,6 +19,48 @@ Features of Java
 * Distributed: Java has extensive support for distributed computing, enabling the creation of networked applications.
 * Dynamic: Java is capable of adapting to an evolving environment, allowing programs to dynamically load classes and libraries.
 
+## Java Revision topic 🧑‍💻
+1. Java Features
+2. java Applications
+3. jdk, jre ,jvm working 
+4. class and object 
+5. Constructor 
+6. constructor Overloading
+7. Access Modifiers in java
+   * default 
+   * public 
+   * private 
+   * protected
+   
+8. Why java Platform Independent (WORA Principles);
+9. java v/s cpp 
+10. Generalization v/s specializations
+11. java package classification
+    * lang
+    * io
+    * util
+    * net
+    * awt 
+12. classification of awt components
+13. types of layout in awt 
+14. Explain java event handling and classification
+15. methods
+    * Methods declaration syntax
+    * Method overloading 
+    * Method overloading
+    * Recursion 
+    
+16. static keyword
+    * static variable 
+    * static methods 
+    * static block-> executed when class loaded 
+    * static nested class
+
+
+
+
+
+
 ## Application of Java
 ![img_19.png](img_19.png)
 
