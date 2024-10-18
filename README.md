@@ -88,7 +88,19 @@ Features of Java
 * Access Parent Class Fields
     ⭐⭐ final class can't have subclass or inherited 
 
+21. Abstract class  and Abstract Method 
+    * class 
+      * Abstract class
+      * Concrete class 
 
+    * can't create object of abstract class 
+    * Reference of abstract class allow 
+    * Abstract method -> can't have body 
+    * Abstract  can be without abstract method 
+    * when we inherit from  abstract class it mandatory to override  super class abstract methods ⭐⭐⭐⭐
+    * Abstract class and Abstract methods Can't be final ⭐⭐⭐
+    * Abstract  class and Abstract methods  can't be static ⭐⭐⭐⭐
+22.  
 
 
 
