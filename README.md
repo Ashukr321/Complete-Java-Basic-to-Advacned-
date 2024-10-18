@@ -55,7 +55,38 @@ Features of Java
     * static methods 
     * static block-> executed when class loaded 
     * static nested class
+    
+17. Final keywords 
+    * Final variables
+    * final methods 
+    * final class 
+18. Singleton class 
+19. package
+    * Naming convention of package 
+20. Inheritance 
+    *  Single-level inheritance.
+    *  Multi-level Inheritance.
+    *  Hierarchical Inheritance.
+    *  Multiple Inheritance. ⭐ not supported achieve by interface 
+    *  Hybrid Inheritance.  ⭐ involve multiple inheritance so this also does't support
+    *  Constructor in inheritance ⭐ when create object of child class parent constructor call first then child constructor
+    * Constructor chaining  
+      * using this and super keywords
+    
+### This keywords in java
+* this keyword is a reference variable that refers to the current object
+* It helps to distinguish between instance variables and local variables with the same name.
+* It can be used to pass the current object as an argument to another method.
+* It can be used to return the current object from a method.
+* It can be used to invoke a constructor from another overloaded constructor in the same class.
 
+### Super keywords in java 
+* super keyword is a reference variable used to refer to the immediate parent class of the current object
+* super can be used to refer to the parent class's field.
+* Access Parent Class Constructors
+* Access Parent Class Methods
+* Access Parent Class Fields
+    ⭐⭐ final class can't have subclass or inherited 
 
 
 
