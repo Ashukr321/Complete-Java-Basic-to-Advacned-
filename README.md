@@ -56,14 +56,21 @@ Features of Java
     * static block-> executed when class loaded 
     * static nested class
     
-17. Final keywords 
+17. Inner class 
+    * Nested Inner class 
+    * Local Nested Inner class 
+    * Local And Anonymous class 
+    * Static inner class 
+    
+    
+18. Final keywords 
     * Final variables
     * final methods 
     * final class 
-18. Singleton class 
-19. package
+19. Singleton class 
+20. package
     * Naming convention of package 
-20. Inheritance 
+21. Inheritance 
     *  Single-level inheritance.
     *  Multi-level Inheritance.
     *  Hierarchical Inheritance.
@@ -88,7 +95,7 @@ Features of Java
 * Access Parent Class Fields
     ⭐⭐ final class can't have subclass or inherited 
 
-21. Abstract class  and Abstract Method 
+22. Abstract class  and Abstract Method 
     * class 
       * Abstract class
       * Concrete class 
@@ -99,8 +106,7 @@ Features of Java
     * Abstract  can be without abstract method 
     * when we inherit from  abstract class it mandatory to override  super class abstract methods ⭐⭐⭐⭐
     * Abstract class and Abstract methods Can't be final ⭐⭐⭐
-    * Abstract  class and Abstract methods  can't be static ⭐⭐⭐⭐
-22.  
+    * Abstract  class and Abstract methods  can't be static ⭐⭐⭐
 
 
 
