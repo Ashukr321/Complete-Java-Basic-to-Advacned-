@@ -107,8 +107,49 @@ Features of Java
     * when we inherit from  abstract class it mandatory to override  super class abstract methods ⭐⭐⭐⭐
     * Abstract class and Abstract methods Can't be final ⭐⭐⭐
     * Abstract  class and Abstract methods  can't be static ⭐⭐⭐
+#
+23. Interface ⭐⭐⭐⭐⭐
 
+* Interface is blueprint for the class 
+* It can be used to achieve loose coupling
+* In Interface by default is -> public ,static , final 
+* Interface help in to achieve multi-interface
+* static methods in interface can only access by interface class reference 
+* Default method can access only by the object of class that Implements interfaces
+* Prior to JDK 8 
+* interface keyword use for creating
+* Inside the Interface, constructors are not allowed.
+* Inside the interface main method is not allowed.
 
+##
+#### 24. String 
+![img_34.png](img_34.png)
+#### 🧑‍💻 String properties ⭐⭐⭐
+
+* string is Non-Primitive Data type 
+* String is Sequence of Character (Array of Character)
+* String is a class extends Object class implements charSequence,serializable ,comparable
+* String object is immutable Object
+* ways of Creating string 
+  * String 
+  * StringBuffer Class 
+  * StringBuilder class 
+
+* SCP (String Constant Pool/ literal pool); 
+* special memory location area in heap , java store string literal value 
+* String s  = new String("Ashutosh"); => this will create two object 1. in heap and 2nd in scp
+* String s = "Aman" ;  -> this will create only 1 object in scp 
+* In case of Scp Garbage collection not work , because jvm internally handle it 
+
+#### String Immutability ⭐⭐⭐
+* Immutability means -> unchangeable 
+* In scp  same value referenced 
+#### Why String class is Final vs Immutability⭐⭐⭐
+* due to final String class , prevents subclass  that could   break these Assumptions 
+
+* Difference between == and equals()  ⭐⭐⭐
+
+    
 
 ## Application of Java
 ![img_19.png](img_19.png)
@@ -143,6 +184,9 @@ Features of Java
 ![img_27.png](img_27.png)
 ![img_28.png](img_28.png)
 ![img_30.png](img_30.png)
+![img_31.png](img_31.png)
+![img_32.png](img_32.png)
+![img_33.png](img_33.png)
 ## Constructor
 
 * default constructor				
