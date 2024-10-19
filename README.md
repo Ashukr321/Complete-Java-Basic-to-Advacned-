@@ -384,7 +384,10 @@ Exceptions e
 
 
 ## File Handling
-Concept of stream 						
+
+Concept of stream 
+
+![img_35.png](img_35.png)
 Byte Oriented Stream						
 ### InputStream				
 * Output Stream				
