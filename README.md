@@ -386,6 +386,7 @@ Exceptions e
 ## File Handling
 
 Concept of stream 
+![img_36.png](img_36.png)
 
 ![img_35.png](img_35.png)
 Byte Oriented Stream						
