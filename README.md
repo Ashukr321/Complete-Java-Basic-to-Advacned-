@@ -758,6 +758,39 @@ Event handling is achieved through the use of event listeners, which are objects
 
 ## JDBC 
 ![JDBC_Components.jpg](JDBC_Components.jpg)
+## Drivers Manager in Java 
+All Drivers are Independent
+1. JDBC driver
+2. Native Java driver
+3. Thin Driver 
+4. Network Protocol Driver
+
+Steps 
+1. Load Zar file 
+2. Establish connection
+3. statement
+4. Execute statement 
+5. close connection 
+
+⭐⭐Select user(); -> this will give the user name 
+
+⭐⭐ @@port; -> this will give the user port number
+
+
+## Hibernate 
+* Hibernate is an object-relational mapping (ORM) framework for Java.
+
+## Key Features of Hibernate
+* Object-Relational Mapping (ORM)
+* Hibernate maps Java classes to database tables and Java data types to SQL data types
+* Database Independence:
+* HQL (Hibernate Query Language)
+* Automatic Table Creation
+* Caching
+* Transactions
+
+
+
 # CORE JAVA INTERVIEW QUESTIONS
 
     1)  what are static blocks and static initalizers in Java ?
