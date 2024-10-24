@@ -460,7 +460,18 @@ Byte Oriented Stream
 * nways to achives multithreading 			
 * thread schedular			
 			
-* Multithreading using Thread class			
+* Multithreading using Thread class
+
+>  Crazy Students Sleep Peacefully In Jail\
+    C: Constructor\
+    S: Start and Stop\
+    S: Sleep and Yield\
+    P: Priority\
+    S: State\
+    I: Interrupt\
+    J: Join\
+
+* 
 * Multithreading using Runnable class			
 			
 * life Cycle of thread			
@@ -470,6 +481,10 @@ Byte Oriented Stream
 * why we need synchronised		
 * synchronised methods
 		
+
+
+
+
 ## Collection framework
 ![img_18.png](img_18.png)
 * collection framework  and its classifcation 						
