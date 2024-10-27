@@ -1,5 +1,5 @@
-public class DeamonThread  extends Thread { 
-	public  void run(){
+public class DeamonThread extends Thread {
+	public void run() {
 		System.out.println("start run mehtods ");
 	}
 
