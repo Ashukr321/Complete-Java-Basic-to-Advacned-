@@ -161,6 +161,8 @@ Features of Java
 
 [Multi Threading .pdf](Multi%20Threading%20.pdf)
 
+[multi threading part 2 .pdf](multi%20threading%20part%202%20.pdf)
+
 [java complete hand written notes.pdf](java%20complete%20hand%20written%20notes.pdf)
 
 [Exception handling .pdf](Exception%20handling%20.pdf)
