@@ -155,7 +155,10 @@ Features of Java
 ![img_19.png](img_19.png)
 
 ## 🤗 Quick Reference 🔥🧑‍💻
+
 [spring core notes.pdf](spring%20core%20notes.pdf)
+
+[Java 136 topics and 700 technical interview Ques.pdf](Java%20136%20topics%20and%20700%20technical%20interview%20Ques.pdf)
 
 [Session 22 - GUI (AWT ^0 SWing).pdf](Session%2022%20-%20GUI%20%28AWT%20%5E0%20SWing%29.pdf)
 
