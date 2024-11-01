@@ -2,6 +2,11 @@
 ![Logo](https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png)
 
 # CORE JAVA AND ADVANCED  JAVA
+## Edition of java 
+1. java Standard Edition (j2SE) -> core java+ jdbc 
+2. java Enterprise Edition (j2EE ) -> servlet+ jsp
+3. java micro Edition (j2ME) 
+# 
 
 * Java is a programming language and computing platform that was first released by Sun Microsystems in 1995. It's a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. Java is known for being fast, secure, and reliable, and it's widely used for developing large-scale applications, including Android apps, web applications, and enterprise software.
 
@@ -795,6 +800,47 @@ Steps
 ⭐⭐Select user(); -> this will give the user name 
 
 ⭐⭐ @@port; -> this will give the user port number
+
+
+
+## JDBC complete Syllabus 
+1. Introduction to Adv. java 
+2. Jdbc in simple ways
+3. storage areas 
+4. introduction to jdbc 
+5. jdbc architecture 
+6. jdbc api 
+7. Driver interface vs driver class vs driver software
+8. types of driver 
+9. standard step to develop jdbc application
+10. working with type 1 to 5 driver 
+11. program for create and drop table 
+12. program for basic crud operation 
+13. prepared statement 
+14. difference between statement and prepared statement 
+15. sql injection attack 
+
+
+
+
+# 1. Introduction to Adv. java
+### Core java : To develop only standalone application 
+### Topic 
+    jdbc 
+    servlet 
+    jsp 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Hibernate 
