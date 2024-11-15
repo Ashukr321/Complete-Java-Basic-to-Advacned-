@@ -54,6 +54,7 @@ Features of Java
     * Method overloading 
     * Method overloading
     * Recursion 
+    * factory methods 
     
 16. static keyword
     * static variable 
@@ -72,6 +73,7 @@ Features of Java
     * Final variables
     * final methods 
     * final class 
+    
 19. Singleton class 
 20. package
     * Naming convention of package 
