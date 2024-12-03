@@ -53,6 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/complete java  basic to advanced.iml" filepath="$PROJECT_DIR$/.idea/complete java  basic to advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/data types/data types.iml" filepath="$PROJECT_DIR$/basic/data types/data types.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/exception lab/exception lab.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/exception lab/exception lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/exceptionex3/exceptionex3.iml" filepath="$PROJECT_DIR$/Exception Handling/exceptionex3/exceptionex3.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/file/file.iml" filepath="$PROJECT_DIR$/FileHandling/file/file.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/fileInputStream/fileInputStream.iml" filepath="$PROJECT_DIR$/FileHandling/fileInputStream/fileInputStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/fileMethods/fileMethods.iml" filepath="$PROJECT_DIR$/FileHandling/fileMethods/fileMethods.iml" />
@@ -97,6 +98,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab7/lab7.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab7/lab7.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/list/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/collection Framework/list/linkedlist/linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/list/list.iml" filepath="$PROJECT_DIR$/collection Framework/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockInterview/mockInterview.iml" filepath="$PROJECT_DIR$/mockInterview/mockInterview.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc architecture/mvc architecture.iml" filepath="$PROJECT_DIR$/mvc architecture/mvc architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/networking/networking.iml" filepath="$PROJECT_DIR$/networking/networking.iml" />
       <module fileurl="file://$PROJECT_DIR$/onlineClass/onlineClass.iml" filepath="$PROJECT_DIR$/onlineClass/onlineClass.iml" />
@@ -121,6 +123,7 @@
       <module fileurl="file://$PROJECT_DIR$/Multithreading/thread class multithreading/thread class multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/thread class multithreading/thread class multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/threadMethods/threadMethods.iml" filepath="$PROJECT_DIR$/Multithreading/threadMethods/threadMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/java project/todoapp/todoapp.iml" filepath="$PROJECT_DIR$/java project/todoapp/todoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/userdefinedexp/userdefinedexp.iml" filepath="$PROJECT_DIR$/Exception Handling/userdefinedexp/userdefinedexp.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/list/vector/vector.iml" filepath="$PROJECT_DIR$/collection Framework/list/vector/vector.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/list/vectorinlist/vectorinlist.iml" filepath="$PROJECT_DIR$/collection Framework/list/vectorinlist/vectorinlist.iml" />
     </modules>

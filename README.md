@@ -365,9 +365,9 @@ An interface is a abstract class that contains only constants, method signatures
 
 ### ways to print the exception message 
 Exceptions e
-1. e.printStackTrace();
-2. e.toString();
-3. e.getMessage();
+1. e.printStackTrace(); - 🔥 dns description + name + stacktrace
+2. e.toString(); - 🔥 name + stacktrace
+3. e.getMessage(); - 🔥 description
 
 
 ### Example of Throw keyword 
