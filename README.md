@@ -220,6 +220,10 @@ Features of Java
 * Hierarchical Inheritance
 * Multiple Inheritance
 * Hybrid Inheritance
+* Is A relationship
+* Has A relationship
+* Aggregation
+* Composition
 
 ## Encapsulation in java 	
 
