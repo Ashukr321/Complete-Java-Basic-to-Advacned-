@@ -8,10 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/Anonymous class/Anonymous by extending class/Anonymous by extending class.iml" filepath="$PROJECT_DIR$/Anonymous class/Anonymous by extending class/Anonymous by extending class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Anonymous class/Anonymous class.iml" filepath="$PROJECT_DIR$/Anonymous class/Anonymous class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListv2/ArrayListv2.iml" filepath="$PROJECT_DIR$/ArrayListv2/ArrayListv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Awt/Awt.iml" filepath="$PROJECT_DIR$/Awt/Awt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data_concept/Data_concept.iml" filepath="$PROJECT_DIR$/Data_concept/Data_concept.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/Encapsulations/Encapsulations.iml" filepath="$PROJECT_DIR$/oops/Encapsulations/Encapsulations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excp3/Excp3.iml" filepath="$PROJECT_DIR$/Excp3/Excp3.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" filepath="$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/oops/Inheritance/Inheritance.iml" />
@@ -37,6 +39,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/lab4/_inlab_q1/_inlab_q1.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/lab4/_inlab_q1/_inlab_q1.iml" />
       <module fileurl="file://$PROJECT_DIR$/applet and swing/applet and swing.iml" filepath="$PROJECT_DIR$/applet and swing/applet and swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/list/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/collection Framework/list/arrayList/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayv2/arrayv2.iml" filepath="$PROJECT_DIR$/arrayv2/arrayv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoboxing_And_unboxing/autoboxing_And_unboxing.iml" filepath="$PROJECT_DIR$/autoboxing_And_unboxing/autoboxing_And_unboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/awt project/awt project.iml" filepath="$PROJECT_DIR$/awt project/awt project.iml" />
       <module fileurl="file://$PROJECT_DIR$/Awt/awtEvent/awtEvent.iml" filepath="$PROJECT_DIR$/Awt/awtEvent/awtEvent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
@@ -44,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/FileHandling/bufferWritter/bufferWritter.iml" filepath="$PROJECT_DIR$/FileHandling/bufferWritter/bufferWritter.iml" />
       <module fileurl="file://$PROJECT_DIR$/build tool/build tool.iml" filepath="$PROJECT_DIR$/build tool/build tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/calender/calender.iml" filepath="$PROJECT_DIR$/calender/calender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatapp/chatapp.iml" filepath="$PROJECT_DIR$/chatapp/chatapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/classEx/classEx.iml" filepath="$PROJECT_DIR$/Exception Handling/classEx/classEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/classEx2/classEx2.iml" filepath="$PROJECT_DIR$/Exception Handling/classEx2/classEx2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/classExample/classExample.iml" filepath="$PROJECT_DIR$/Multithreading/classExample/classExample.iml" />
@@ -55,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab core java sem 5/exception lab/exception lab.iml" filepath="$PROJECT_DIR$/Lab core java sem 5/exception lab/exception lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/exceptionex3/exceptionex3.iml" filepath="$PROJECT_DIR$/Exception Handling/exceptionex3/exceptionex3.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/file/file.iml" filepath="$PROJECT_DIR$/FileHandling/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileHandling2/fileHandling2.iml" filepath="$PROJECT_DIR$/fileHandling2/fileHandling2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/fileInputStream/fileInputStream.iml" filepath="$PROJECT_DIR$/FileHandling/fileInputStream/fileInputStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/fileMethods/fileMethods.iml" filepath="$PROJECT_DIR$/FileHandling/fileMethods/fileMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/fileOutputStream/fileOutputStream.iml" filepath="$PROJECT_DIR$/FileHandling/fileOutputStream/fileOutputStream.iml" />
